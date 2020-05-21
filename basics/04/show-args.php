@@ -7,6 +7,9 @@ $array = [
  3 => 'Titanic',
 ];
 
-for($i =0; $i < count($array); $i++) {
-    print_r($array[$i]);
-}
+print($array[0]) ;
+
+
+// for($i =0; $i < count($array); $i++) {
+//     print_r($array[$i]);
+// }
