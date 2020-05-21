@@ -1,3 +1,9 @@
 <?php
 
-print("Hello World");
+
+
+
+function bloep () {
+    print("bloep!");
+    print("Hello World");
+}

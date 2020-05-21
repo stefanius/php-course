@@ -1,3 +1,3 @@
 <?php
 
-print("Hello {$argv[1]}");
+var_dump(1 == "1");
